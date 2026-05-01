@@ -13,3 +13,6 @@ Follow us on the web:
 
 * Twitter: http://twitter.com/smartthingsdev
 * Facebook: http://facebook.com/smartthingsdevelopers
+
+---
+*Cloned for local workbench testing — TDT Build 004*
