@@ -16,3 +16,5 @@ Follow us on the web:
 
 ---
 *Cloned for local workbench testing — TDT Build 004*
+
+*Dev setup verified 2026-05-03 — end-to-end commit/push confirmed via Claude Code.*
